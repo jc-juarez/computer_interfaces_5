@@ -1,3 +1,6 @@
+// Modified by Juan Carlos Juárez
+// Keyboard Functionality
+
 /*******************************************************************************
   MPLAB Harmony Application Source File
   
